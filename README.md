@@ -1,7 +1,8 @@
 # RandomGUI
 
 RandomGUI is a tool designed to automatically generate multiple random numbers or random combinations. It comes equipped with a historical query function, allowing users to track and review past random selections. Additionally, it provides the flexibility to choose whether the generated random numbers can be repeated.
-
+![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r1.png)
+![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r2.png)
 ## Requirements
 
 Ensure the following dependencies are installed:
@@ -14,8 +15,6 @@ Ensure the following dependencies are installed:
 5. PyUIC5
 6. Pyrcc5
 ```
-![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r1.png)
-![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r2.png)
 
 # How to Build?
 Follow these steps to build RandomGUI using PyInstaller:
