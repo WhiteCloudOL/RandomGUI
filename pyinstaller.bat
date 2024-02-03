@@ -1,0 +1,1 @@
+C:\Users\11325\AppData\Local\Programs\Python\Python311\Scripts\pyinstaller.exe -F -w -i icon.ico RandomGUI.py GUI.py GUI2.py GUI3.py GUI4.py qtimage_rc.py
