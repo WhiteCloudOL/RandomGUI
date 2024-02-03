@@ -14,6 +14,8 @@ Ensure the following dependencies are installed:
 5. PyUIC5
 6. Pyrcc5
 ```
+![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r1.png)
+![image](https://github.com/WhiteCloudOL/RandomGUI/blob/main/image/r2.png)
 
 # How to Build?
 Follow these steps to build RandomGUI using PyInstaller:
