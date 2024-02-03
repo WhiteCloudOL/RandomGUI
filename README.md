@@ -18,6 +18,12 @@ Ensure the following dependencies are installed:
 # How to Build?
 Follow these steps to build RandomGUI using PyInstaller:
 
+Open the command prompt (cmd.exe).
+
+Navigate to the project directory.
+
+Execute the following command:
+
 ```bash
 pyinstaller -F -w -i icon.ico RandomGUI.py GUI.py GUI2.py GUI3.py GUI4.py qtimage_rc.py
 ```
