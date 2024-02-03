@@ -22,4 +22,5 @@ Follow these steps to build RandomGUI using PyInstaller:
 pyinstaller -F -w -i icon.ico RandomGUI.py GUI.py GUI2.py GUI3.py GUI4.py qtimage_rc.py
 ```
 This command will package RandomGUI and its dependencies into a standalone executable. The -F flag creates a single executable file, while the -w flag runs the program without a console window. The -i flag allows you to specify an icon for the executable.
+
 Feel free to customize the build process according to your preferences and project requirements.
