@@ -90,7 +90,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>双重随机数(不重复)</string>
+     <string>双重随机数</string>
     </property>
    </widget>
   </widget>
