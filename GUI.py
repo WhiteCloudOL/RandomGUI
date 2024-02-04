@@ -63,5 +63,5 @@ class Ui_Mainwindow(object):
         Mainwindow.setWindowTitle(_translate("Mainwindow", "RandomGUI"))
         self.label.setText(_translate("Mainwindow", "Random GUI"))
         self.pushButton_2.setText(_translate("Mainwindow", "随机摇号/随机数"))
-        self.pushButton_3.setText(_translate("Mainwindow", "双重随机数(不重复)"))
+        self.pushButton_3.setText(_translate("Mainwindow", "双重随机数"))
 import qtimage_rc
